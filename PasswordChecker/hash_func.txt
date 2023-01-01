@@ -1,0 +1,13 @@
+Hash function generates a pattern for an input
+
+Even a small change in the string changes the Hash Pattern completely
+
+But if we give the same input, we get the same output
+
+The hash pattern generated is a key and the actual one is a value
+
+So in reality we are running a key value pair 
+
+Thus the hash pattern generated is mostly random
+
+Hashtable = Dictionary

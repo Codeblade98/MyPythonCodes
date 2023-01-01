@@ -1,0 +1,3 @@
+After the URL of a webpage if we write /robots.txt we can find what data is available for programs
+to scrape from the website. Although we can scrape any data from any website, scraping data not allowed
+as per robots.txt is unethical.
